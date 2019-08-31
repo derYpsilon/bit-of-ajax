@@ -4,6 +4,7 @@ const WebpackMd5Hash = require('webpack-md5-hash');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const webpack = require("webpack");
 
+
 module.exports = {
     entry: { main: './src/index.js' },
     output: {

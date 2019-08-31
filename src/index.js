@@ -7,6 +7,7 @@ import './pages/index.css';
 import './images/close.svg';
 
 /* Инициализируем переменные */
+
 let nodeURL='https://praktikum.tk';
 if (NODE_ENV==='development') {
     nodeURL='http://praktikum.tk'
